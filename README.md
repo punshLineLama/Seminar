@@ -1,9 +1,9 @@
 # Seminar
-<h1>A Repository for my seminar-paper and the code which I used to conduct an experiment</h1>
+<p>A Repository for my seminar-paper and the code which I used to conduct an experiment</p>
 
-The C program <i>performance.c</i> depicts how the performace was measured during the experiment.<br>
-It was once compiled with the flags: <b>-fno-stackprotect -O0<b> and once with <b> -fstack-protector-all -O0</b> <br>
+The C program <b>performance.c</b> depicts how the performace was measured during the experiment.<br>
+It was once compiled with the flags: <code>-fno-stackprotect -O0</code> and once with <code> -fstack-protector-all -O0</code> <br>
 
-The python script <i>condfidenceInterval.py</i> was then used to calculate the confidence intervals of the output of <i> performance.c </i>
+The python script <b>condfidenceInterval.py</b> was then used to calculate the confidence intervals of the output of <b> performance.c </b>
 
 For further details, take a look at the seminar-paper itself.
